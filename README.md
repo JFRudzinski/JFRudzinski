@@ -16,6 +16,17 @@ _I'm passionate about **making science work better** by connecting people, platf
 
 ---
 
+## Core Contributions
+
+[![FAIRmat-NFDI](https://img.shields.io/badge/Org-FAIRmat--NFDI-4CAF50?logo=github)](https://github.com/FAIRmat-NFDI)
+[![NOMAD-COE](https://img.shields.io/badge/Org-NOMAD--COE-2196F3?logo=github)](https://github.com/nomad-coe)
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFRudzinski&show_icons=true&count_private=true&theme=transparent&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JFRudzinski&theme=transparent)
+
+---
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jfrudzinski)
@@ -24,11 +35,6 @@ _I'm passionate about **making science work better** by connecting people, platf
 - [FAIRmat](https://www.fairmat-nfdi.eu/)
 
 ---
-
-<!-- Optional: fun/visual section like GitHub stats -->
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JFRudzinski&show_icons=true&theme=default)
--->
 
 
 <!--
