@@ -31,8 +31,8 @@ _I'm passionate about **making science work better** by connecting people, platf
 
 - [LinkedIn](https://www.linkedin.com/in/jfrudzinski)
 - [ORCiD](https://orcid.org/0000-0003-3403-640X)
-- [Glaide Data](https://glaidedata.com)
 - [FAIRmat](https://www.fairmat-nfdi.eu/)
+- [Glaide Data](https://glaidedata.com)
 
 ---
 
